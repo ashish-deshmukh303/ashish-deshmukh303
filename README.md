@@ -15,34 +15,27 @@ I'm a **FULL-STACK DEVELOPER** passionate about building scalable web applicatio
 
 ## 🧠 Projects
 
-- **NR_DIR Startups** – [Deployed Link](#)
+- **Full-Stack Task Manager App** – [Deployed Link](#)
 - **Health-Tracking-App** – [Deployed Link](#)
-- **VIEWMATE** – [Repository Link](#)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
-- **Frontend:** React.js, Next.js, Vite, HTML5, CSS3, Tailwind CSS, EJS
-- **Backend:** Node.js, Express.js, Flask, Django
-- **Database:** MongoDB, Sanity
+- **Frontend:** React.js, HTML5, CSS3, JS, Typescript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
 
 ### 🧰 Tools & Platforms
-- GitHub, Vercel, Netlify, Postman, Figma, Canva, Eraser, Sentry, ESLint
+- GitHub, Postman.
 
 ### 🔤 Programming Languages
-- Java, JavaScript, Python
+- Java, JavaScript.
 
 ---
 
-## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR_LINK)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/YOUR_LINK)
-
----
 
 ## 👁️ Visitors
 
